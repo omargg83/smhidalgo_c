@@ -1,0 +1,61 @@
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\smhidalgo.Properties.Resources.resources
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\smhidalgo.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Release\MySql.Data.dll
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Release\MySql.Data.xml
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\smhidalgo.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\smhidalgo.csproj.CopyComplete
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Release\Google.Protobuf.dll
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Release\Renci.SshNet.dll
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\smhidalgo.inicio.resources
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\smhidalgo.imprime.resources
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Release\SMHidalgo.exe.config
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Release\SMHidalgo.exe.manifest
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Release\SMHidalgo.application
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Release\SMHidalgo.exe
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Release\SMHidalgo.pdb
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\SMHidalgo.TrustInfo.xml
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\SMHidalgo.exe.manifest
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\SMHidalgo.application
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\SMHidalgo.exe
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Release\SMHidalgo.pdb
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\bin\Release\SMHidalgo.exe.config
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\bin\Release\SMHidalgo.exe.manifest
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\bin\Release\SMHidalgo.application
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\bin\Release\SMHidalgo.exe
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\bin\Release\SMHidalgo.pdb
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\bin\Release\Google.Protobuf.dll
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\bin\Release\BouncyCastle.Crypto.dll
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\bin\Release\Renci.SshNet.dll
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\bin\Release\MySql.Data.xml
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\smhidalgo.csprojAssemblyReference.cache
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\smhidalgo.imprime.resources
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\smhidalgo.inicio.resources
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\smhidalgo.Properties.Resources.resources
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\smhidalgo.csproj.GenerateResource.cache
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\SMHidalgo.TrustInfo.xml
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\SMHidalgo.exe.manifest
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\SMHidalgo.application
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\smhidalgo.csproj.CopyComplete
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\SMHidalgo.exe
+F:\escritorio asus\desarrollos C\smhidalgo\smhidalgo\obj\Release\SMHidalgo.pdb
+C:\desarollo\smhidalgo_c\smhidalgo\bin\Release\SMHidalgo.exe.config
+C:\desarollo\smhidalgo_c\smhidalgo\bin\Release\SMHidalgo.exe.manifest
+C:\desarollo\smhidalgo_c\smhidalgo\bin\Release\SMHidalgo.application
+C:\desarollo\smhidalgo_c\smhidalgo\bin\Release\SMHidalgo.exe
+C:\desarollo\smhidalgo_c\smhidalgo\bin\Release\SMHidalgo.pdb
+C:\desarollo\smhidalgo_c\smhidalgo\bin\Release\Google.Protobuf.dll
+C:\desarollo\smhidalgo_c\smhidalgo\bin\Release\BouncyCastle.Crypto.dll
+C:\desarollo\smhidalgo_c\smhidalgo\bin\Release\Renci.SshNet.dll
+C:\desarollo\smhidalgo_c\smhidalgo\bin\Release\MySql.Data.xml
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\smhidalgo.csprojAssemblyReference.cache
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\smhidalgo.imprime.resources
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\smhidalgo.inicio.resources
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\smhidalgo.Properties.Resources.resources
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\smhidalgo.csproj.GenerateResource.cache
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\SMHidalgo.TrustInfo.xml
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\SMHidalgo.exe.manifest
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\SMHidalgo.application
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\smhidalgo.csproj.CopyComplete
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\SMHidalgo.exe
+C:\desarollo\smhidalgo_c\smhidalgo\obj\Release\SMHidalgo.pdb

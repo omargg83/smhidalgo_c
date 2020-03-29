@@ -1,0 +1,48 @@
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\bin\Debug\smhidalgo.exe.config
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\bin\Debug\smhidalgo.exe
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\bin\Debug\smhidalgo.pdb
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csprojAssemblyReference.cache
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\obj\Debug\smhidalgo.Properties.Resources.resources
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csproj.GenerateResource.cache
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csproj.CoreCompileInputs.cache
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\obj\Debug\smhidalgo.exe
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\obj\Debug\smhidalgo.pdb
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\bin\Debug\MySql.Data.dll
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\bin\Debug\Google.Protobuf.dll
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\bin\Debug\MySql.Data.xml
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csproj.CopyComplete
+C:\root\htdocs\smhidalgo\app\smhidalgo\smhidalgo\obj\Debug\smhidalgo.Form1.resources
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\bin\Debug\smhidalgo.exe.config
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\bin\Debug\smhidalgo.exe
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\bin\Debug\smhidalgo.pdb
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\bin\Debug\MySql.Data.dll
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\bin\Debug\Google.Protobuf.dll
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\bin\Debug\MySql.Data.xml
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csprojAssemblyReference.cache
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\obj\Debug\smhidalgo.Form1.resources
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\obj\Debug\smhidalgo.Properties.Resources.resources
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csproj.GenerateResource.cache
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csproj.CoreCompileInputs.cache
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csproj.CopyComplete
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\obj\Debug\smhidalgo.exe
+C:\Users\Informática\Desktop\smhidalgo\smhidalgo\obj\Debug\smhidalgo.pdb
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Debug\MySql.Data.xml
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Debug\smhidalgo.Form1.resources
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Debug\smhidalgo.Properties.Resources.resources
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Debug\smhidalgo.csproj.CopyComplete
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Debug\SM Hidalgo.exe.config
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Debug\SM Hidalgo.exe.manifest
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Debug\SM Hidalgo.application
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Debug\SM Hidalgo.exe
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Debug\SM Hidalgo.pdb
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Debug\MySql.Data.dll
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Debug\SM Hidalgo.TrustInfo.xml
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Debug\SM Hidalgo.exe.manifest
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Debug\SM Hidalgo.application
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Debug\SM Hidalgo.exe
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\obj\Debug\SM Hidalgo.pdb
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Debug\Google.Protobuf.dll
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Omar\Desktop\desarrollos\smhidalgo\smhidalgo\bin\Debug\Renci.SshNet.dll
